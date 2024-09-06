@@ -41,7 +41,7 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width='200%' heigth="80%"/>\
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width='200%' heigth="80%"/>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
